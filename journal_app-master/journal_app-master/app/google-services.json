@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224712247454",
+    "project_id": "journalapp-aeb40",
+    "storage_bucket": "journalapp-aeb40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224712247454:android:9053c4d5e0f4943beb938f",
+        "android_client_info": {
+          "package_name": "com.example.journalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH699pSSXE-oJFNkvFgzjPJBH8pRilxBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
